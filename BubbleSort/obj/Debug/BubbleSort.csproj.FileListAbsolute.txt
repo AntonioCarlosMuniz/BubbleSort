@@ -1,0 +1,7 @@
+C:\Users\AntônioCarlosMeloMun\Desktop\netFrameworkBubbleSortInfnet\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\AntônioCarlosMeloMun\Desktop\netFrameworkBubbleSortInfnet\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\AntônioCarlosMeloMun\Desktop\netFrameworkBubbleSortInfnet\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\AntônioCarlosMeloMun\Desktop\netFrameworkBubbleSortInfnet\BubbleSort\obj\Debug\BubbleSort.csprojAssemblyReference.cache
+C:\Users\AntônioCarlosMeloMun\Desktop\netFrameworkBubbleSortInfnet\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\AntônioCarlosMeloMun\Desktop\netFrameworkBubbleSortInfnet\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\AntônioCarlosMeloMun\Desktop\netFrameworkBubbleSortInfnet\BubbleSort\obj\Debug\BubbleSort.pdb
